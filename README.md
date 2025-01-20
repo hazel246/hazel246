@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hafsa!
+# 👋 Hello there!
 
 I'm a **Computer Science student** passionate about **data engineering**, **machine learning**, and **teaching mathematics**. I combine my knowledge of programming and education to build innovative solutions.
 
