@@ -45,8 +45,7 @@ I'm a Computer Science student passionate about data engineering, machine learni
 ## <p align="center">🏆 Certifications I'm Working On</p>
 - Scientific Computing with Python - FreeCodeCamp  
 - Data Science Certification - DataCamp  
-- AI Fundamentals Track (Includes Understanding Machine Learning) - DataCamp  
-- Introduction to Python - freeCodeCamp  
+- AI Fundamentals Track (Includes Understanding Machine Learning) - DataCamp   
 
 ---
 
