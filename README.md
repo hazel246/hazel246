@@ -54,9 +54,6 @@ I'm a Computer Science student passionate about data engineering, machine learni
   <a href="https://linkedin.com/in/hafsa-amir-23b18b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-amir" height="30" width="40" /></a>
   <a href="https://kaggle.com/hafsaamir24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafsaamir24" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/hazel_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hazel_123" height="30" width="40" /></a>
-   <a href="mailto:amirhafsa14@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
 </p>
 
 ---
