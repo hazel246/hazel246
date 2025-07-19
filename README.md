@@ -1,6 +1,6 @@
 # <p align="center">Hi 👋, I'm Hafsa</p>
 
-I'm a Computer Science student passionate about data engineering, machine learning, and teaching mathematics. I combine my knowledge of programming and education to build innovative solutions.
+I'm a Computer Science student passionate about AI , machine learning, and teaching mathematics. I combine my knowledge of programming and education to build innovative solutions.
 
 ---
 
