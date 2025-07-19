@@ -4,7 +4,7 @@ I'm a Computer Science student passionate about AI, machine learning, and teachi
 
 ---
 
-## 💡 About Logicolate
+## <p align="center">💡 About Logicolate</p>
 
 🚀 **Logicolate** is my personal AI-focused brand where I experiment, build, and ship AI tools that **simplify work, automate tasks, and unlock business efficiency**.
 
