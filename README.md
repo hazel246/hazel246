@@ -6,10 +6,11 @@ I'm a Computer Science student passionate about AI, machine learning, and teachi
 
 ## 💡 About Logicolate
 
-🚀 I'm building **Logicolate**, a learning-first AI brand focused on making intelligent tools and agents that help students study better, think sharper, and learn faster.  
-Think of it as a space where **AI meets logic + learning** — starting small, growing smarter.
+🚀 **Logicolate** is my personal AI-focused brand where I experiment, build, and ship AI tools that **simplify work, automate tasks, and unlock business efficiency**.
 
-Projects from Logicolate will start appearing on GitHub soon.
+From web scraping bots to AI copilots and intelligent agents — Logicolate is where logic meets automation.
+
+> Projects under Logicolate will soon be available on GitHub.
 
 ## <p align="center">🌟 What I Do</p>
 
