@@ -4,10 +4,19 @@ I'm a Computer Science student passionate about AI, machine learning, and teachi
 
 ---
 
+## 💡 About Logicolate
+
+🚀 I'm building **Logicolate**, a learning-first AI brand focused on making intelligent tools and agents that help students study better, think sharper, and learn faster.  
+Think of it as a space where **AI meets logic + learning** — starting small, growing smarter.
+
+Projects from Logicolate will start appearing on GitHub soon.
+
 ## <p align="center">🌟 What I Do</p>
 
-- 🔭 **Currently working on:** Scientific Computing with Python course on FreeCodeCamp  
-- 🌱 **Learning:** Python, machine learning, data science, AI Fundamentals
+- 🔭 **Currently working on:**
+  Scientific Computing with Python course on FreeCodeCamp
+  Generative AI with LLMs (Coursera, DeepLearning.AI) 
+- 🌱 **Learning:** Python, machine learning and AI Fundamentals
 
 ### Programming Languages:
 - I have learned Java (OOP, JavaFX) and C, but my primary focus is on Python for data engineering and machine learning.
@@ -21,13 +30,14 @@ I'm a Computer Science student passionate about AI, machine learning, and teachi
 
 ### Project Focus:
 - Developing a quiz application that converts notes into quizzes to enhance study methods.
+- Web scrapers and data-driven mini projects
 
 ---
 
 ## <p align="center">🚀 Goals for 2025</p>
 - Master Python, data science, and machine learning.
 - Develop a unique app to help students succeed academically.
-- Build a strong presence on GitHub and LinkedIn.
+- Build a solid presence on GitHub & LinkedIn with impactful AI projects
 
 ---
 
