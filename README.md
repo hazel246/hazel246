@@ -14,11 +14,15 @@ From web scraping bots to AI copilots and intelligent agents — Logicolate is w
 
 ## <p align="center">🌟 What I Do</p>
 
-### 🔭 **Currently working on:**
-  -Scientific Computing with Python course on FreeCodeCamp
-  -Generative AI with LLMs (Coursera, DeepLearning.AI)
-  
-- 🌱 **Learning:** Python, machine learning and AI Fundamentals
+### 🔭 Currently Working On
+- Scientific Computing with Python – *FreeCodeCamp*  
+- Generative AI with LLMs – *Coursera (DeepLearning.AI)*  
+
+### 🌱 Learning
+- Python  
+- Machine Learning  
+- AI Fundamentals  
+
 
 ### Programming Languages:
 - I have learned Java (OOP, JavaFX) and C, but my primary focus is on Python for data engineering and machine learning.
