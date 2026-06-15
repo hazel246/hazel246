@@ -59,11 +59,11 @@ Minesweeper rebuilt in C++ and SFML as a data-structures showcase, using a 2D gr
 
 ---
 
-## <p align="center">🏆 Certifications & Learning</p>
-- Scientific Computing with Python - FreeCodeCamp
-- Generative AI with LLMs - Coursera (DeepLearning.AI)
-- Data Science Track - DataCamp
-- AI Fundamentals Track - DataCamp
+## <p align="center">🏆 Certifications</p>
+- **Infyma AI Training & Hackathon** - Infyma, Mar 2025 ([credential](https://credsverse.com/credentials/b4b0fba3-b212-40ac-936e-12f8b93da8ef))
+- **Vertex AI Generative AI Explorer** - Google Cloud Skills Boost, Feb 2025 ([credential](https://www.cloudskillsboost.google/public_profiles/1d982e7c-417a-4d92-8fc2-f7a3aa6fec58/badges/13941070))
+- **Introduction to Python** - DataCamp, Jan 2025 ([credential](https://www.datacamp.com/completed/statement-of-accomplishment/course/4d8455793eaab883c0c4d0de08cb241b5f2033e2))
+- **Understanding Machine Learning** - DataCamp
 
 ---
 
