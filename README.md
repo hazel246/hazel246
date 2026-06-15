@@ -4,14 +4,6 @@
 
 ---
 
-## <p align="center">💡 About Logicolate</p>
-
-🚀 **Logicolate** is my personal brand where I design and ship software, with a focus on full-stack web apps and practical AI tools.
-
-From full-stack platforms to AI-assisted features and automation workflows, Logicolate is where logic meets clean, considered design.
-
----
-
 ## <p align="center">🌟 What I Do</p>
 
 ### 🔭 Currently Building
